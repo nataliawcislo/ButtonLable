@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "F51E089F-420B-4D09-9F1A-CD54F1617210"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Buttom/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883 - 3628c60fa6cd8c5a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buttom.ViewController.LableStart.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Buttom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliawcislo/Desktop/Buttom/Buttom/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883 - 5fdac39f83a7b1ce"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buttom.ViewController.LableStart.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Buttom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliawcislo/Desktop/Buttom/Buttom/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883 - 96674192ca4216bf"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buttom.ViewController.LableStart.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "Buttom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliawcislo/Desktop/Buttom/Buttom/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "67">
+               </Location>
+               <Location
+                  uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883 - 6e2227ee5fc609b"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buttom.ViewController.LableStart.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Buttom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliawcislo/Desktop/Buttom/Buttom/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "76">
+               </Location>
+               <Location
+                  uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883 - 1ef9c67b531657fe"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buttom.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Buttom.ViewController"
+                  moduleName = "Buttom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliawcislo/Desktop/Buttom/Buttom/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  uuid = "5F012CFC-BF24-4DF0-AAC3-C1379F055883 - 8ac66572e1401e5a"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buttom.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Buttom.ViewController&gt;"
+                  moduleName = "Buttom"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nataliawcislo/Desktop/Buttom/Buttom/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "92">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
